@@ -1,6 +1,6 @@
-# Splines 
+# Points interpolation 
 
-**Programa**: https://github.com/oscarjcg/splines/tree/master/Application
+**Program**: https://github.com/oscarjcg/splines/tree/master/Application
 * **Windows**: Standalone
 * **Linux**: java -jar Aplicacion.jar
 
@@ -9,14 +9,14 @@
 	title="Preview" width="500"/>
 </p>
 
-**Descripción:** Interpolación de puntos mediante un Spline cúbico
+**Description:** Points interpolation with a cubic spline
 
-**Características**:
-* 'A', 'D': Selecionar de punto
-* 'Up', 'Down', 'Left', 'Right: Mover punto
+**Features**:
+* 'A', 'D': Select point
+* 'Up', 'Down', 'Left', 'Right': Move point
 * MVC
 
-**Entorno de desarrollo**:
-* **Sistema operativo:** Linux
+**Development environment**:
+* **OS:** Linux
 * **Java:** 1.8.0_121  
-* **Eclipse**: Neon
+* **Eclipse:** Neon
