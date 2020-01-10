@@ -1,6 +1,6 @@
 # Splines 
 
-**Programa**: https://github.com/oscarjcg/splines/tree/master/Aplication
+**Programa**: https://github.com/oscarjcg/splines/tree/master/Application
 * **Windows**: Standalone
 * **Linux**: java -jar Aplicacion.jar
 
